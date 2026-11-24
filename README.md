@@ -2,7 +2,7 @@
   <strong>Microsoft Excel | Power BI | Financial Data Analytics</strong>
 </p><p align="center">
   An exploratory financial analysis of Tata Steel Downstream Products Limited, comparing FY 2023–24 and FY 2024–25 through Excel-based analysis and an interactive Power BI dashboard.
-</p>---
+</p>
 
 <h1>📌 Project Overview</h1>This project focuses on analyzing the financial performance of Tata Steel Downstream Products Limited using financial statement data for FY 2023–24 and FY 2024–25.
 
@@ -10,7 +10,7 @@ The project combines Microsoft Excel and Power BI to organize financial data, ca
 
 It aims to understand the company's financial position, profitability, liquidity, and cash flow trends from a data analytics perspective.
 
----
+
 
 <h1>🎯 Project Objectives</h1>- Analyze and compare financial performance across two financial years.
 - Examine revenue, expenses, and profitability trends.
@@ -20,7 +20,7 @@ It aims to understand the company's financial position, profitability, liquidity
 - Present important financial metrics through interactive dashboards.
 - Develop business-oriented insights from financial data.
 
----
+
 
 <h1>🛠️ Tools and Technologies</h1>Tool| Purpose
 Microsoft Excel| Data organization, calculations, financial analysis and dashboard creation
@@ -29,7 +29,7 @@ Power BI| Financial data visualization and dashboard development
 DAX| Supporting calculations and KPI measures
 Data Visualization| Presenting financial trends and comparisons
 
----
+
 
 <h1>📈 Project Preview</h1><h2>📗 1. Microsoft Excel Financial Analysis</h2><p>
   The Excel workbook contains organized financial statements, year-on-year comparisons, financial ratio calculations, cash flow analysis, and business insights.
@@ -39,7 +39,7 @@ Data Visualization| Presenting financial trends and comparisons
   The Power BI dashboard presents important financial indicators through KPI cards and visual comparisons, making it easier to understand the company's financial performance.
 </p><p align="center">
   <img src="Screenshot%202026-11-24%20153211.png" alt="Tata Steel Power BI Financial Dashboard" width="95%">
-</p>---
+</p>
 
 <h1>📂 Excel Workbook Components</h1>The Excel workbook is organized into the following sections:
 
@@ -53,7 +53,7 @@ Financial Analysis| Year-on-year financial performance comparison
 Cash Flow Analysis| Comparison of operating, investing and financing cash flows
 Business Insights| Observations and interpretations based on the analysis
 
----
+
 
 <h1>🔍 Key Financial Findings</h1>The analysis highlights several changes in the company's financial performance:
 
@@ -67,7 +67,7 @@ Debt-Equity Ratio| Improved from 0.10 to 0.07
 
 These observations provide an overview of changes in profitability, liquidity, inventory levels, and cash flow between the two financial years.
 
----
+
 
 <h1>💡 Business Insights</h1>- Revenue from operations experienced a slight decline during FY 2024–25.
 - Profit after tax declined at a higher rate than revenue, highlighting the importance of examining expenses and exceptional items.
@@ -78,7 +78,7 @@ These observations provide an overview of changes in profitability, liquidity, i
 
 These insights are based on the financial data analyzed and are intended to support further financial and business evaluation.
 
----
+
 
 <h1>⚙️ Analysis and Dashboard Features</h1><h2>📗 Microsoft Excel</h2>- Organized financial statement data.
 - Year-on-year financial comparisons.
@@ -93,7 +93,7 @@ These insights are based on the financial data analyzed and are intended to supp
 - Asset-related visualizations.
 - Interactive financial data presentation.
 
----
+
 
 <h1>📁 Project Files</h1>File Name| Description
 "Tata_Steel_Product_Downstream_Limited.xlsx"| Excel workbook containing financial analysis and dashboard
@@ -102,7 +102,7 @@ These insights are based on the financial data analyzed and are intended to supp
 "Screenshot 2026-11-24 153211.png"| Power BI dashboard preview
 "README.md"| Project documentation
 
----
+
 
 <h1>🚀 How to Explore This Project</h1>1. Open this GitHub repository.
 2. Download the Excel workbook or Power BI file.
@@ -111,7 +111,7 @@ These insights are based on the financial data analyzed and are intended to supp
 5. Open the ".pbix" file using Power BI Desktop.
 6. Explore the financial KPIs and visualizations in the Power BI dashboard.
 
----
+
 
 <h1>📚 What I Learned</h1>Through this project, I gained practical experience in:
 
@@ -126,7 +126,7 @@ These insights are based on the financial data analyzed and are intended to supp
 
 This project also helped me understand how data analytics can be applied to financial and manufacturing-related business environments.
 
----
+
 
 <h1>🔮 Future Improvements</h1>- Extend the analysis to additional financial years.
 - Include more detailed financial and operational indicators.
@@ -134,7 +134,7 @@ This project also helped me understand how data analytics can be applied to fina
 - Develop more detailed profitability and working capital analysis.
 - Incorporate additional interactive features into the dashboard.
 
----
+
 
 <h1>👩‍💻 About This Project</h1>This project is part of my journey toward becoming a Data Analyst.
 
@@ -142,7 +142,7 @@ I am a Computer Science and Technology student interested in applying data analy
 
 Through hands-on projects, I am continuously developing my skills in Microsoft Excel, SQL, Python, Power BI, and data visualization.
 
----
+
 
 <p align="center">
   <strong>Thank you for exploring my project! ❤️</strong>
