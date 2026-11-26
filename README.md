@@ -96,7 +96,7 @@ These insights are based on the financial data analyzed and are intended to supp
 
 
 <h1>📁 Project Files</h1>File Name| Description
-"Tata_Steel_Product_Downstream_Limited.xlsx"| Excel workbook containing financial analysis and dashboard
+"Tata_Steel_Downstream_Product_Limited.xlsx"| Excel workbook containing financial analysis and dashboard
 "TATA_Financial_Dashboard.pbix"| Power BI financial dashboard
 "Screenshot 2026-11-24 152330.png"| Excel dashboard preview
 "Screenshot 2026-11-24 153211.png"| Power BI dashboard preview
